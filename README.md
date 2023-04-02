@@ -1,4 +1,5 @@
 # Tic-Tac-Toe-Game
+![image](https://www.codesnail.com/wp-content/uploads/2020/08/tic-tac-toe-game-in-python.png)
 Here are the general steps you could follow to create a Tic Tac Toe game with a GUI using Python and the Pygame library:
 1. Install Pygame: First, make sure Pygame is installed on your system. You can install Pygame using pip command: pip install pygame.
 2. Import the necessary libraries: Start by importing the Pygame and Sys libraries.
